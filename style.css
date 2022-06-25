@@ -105,7 +105,11 @@ body
   }
 
   #onet {
-    width: 60%;
+    width: 30%;
+  }
+
+  .gmap_canvas {
+    width: 80%;
   }
 
 
